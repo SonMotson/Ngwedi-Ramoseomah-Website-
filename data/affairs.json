@@ -1,23 +1,7 @@
 {
-  "updated": "2026-11-07T00:00:00Z",
-  "mode": "curated-seed-plus-scheduled-discovery",
+  "updated": "2026-11-07T21:56:50.205526+00:00",
+  "mode": "scheduled-public-source-discovery",
   "items": [
-    {
-      "topic": "trade",
-      "source": "UNCTAD · 9 Oct 2026",
-      "published": "2026-10-09T00:00:00Z",
-      "title": "UNCTAD projects global growth at 2.6% and trade growth around 4% in 2026",
-      "summary": "UNCTAD's Trade and Development Report 2026 describes slower global growth, resilient Asian economies, shifting trade relationships and increasing importance of technology and geopolitical policy barriers.",
-      "url": "https://unctad.org/news/global-growth-slows-26-and-gaps-widen-between-developing-regions"
-    },
-    {
-      "topic": "trade",
-      "source": "WTO · 5 Nov 2026",
-      "published": "2026-11-05T00:00:00Z",
-      "title": "WTO highlights trade partnerships and development priorities",
-      "summary": "Recent WTO updates include trade policy review activity, fisheries subsidies discussions and a global review focused on partnerships for trade and development.",
-      "url": "https://www.wto.org/index.htm"
-    },
     {
       "topic": "africa",
       "source": "SADC · 6 Nov 2026",
@@ -25,14 +9,6 @@
       "title": "SADC and development partners reaffirm regional integration priorities",
       "summary": "The 5 November SADC-ICP dialogue reviewed regional integration, sustainable development, peace and security priorities with member-state and development-partner participation.",
       "url": "https://www.sadc.int/latest-news/sadc-development-partners-reaffirm-commitment-regional-integration-and-sustainable"
-    },
-    {
-      "topic": "africa",
-      "source": "Bank of Botswana · September 2026 bulletin",
-      "published": "2026-09-30T00:00:00Z",
-      "title": "Botswana external-sector statistics: latest quarterly bulletin",
-      "summary": "The Bank of Botswana's external-sector bulletin tracks trade, investment and income flows and provides a primary source for monitoring Botswana's external position.",
-      "url": "https://www.bankofbotswana.bw/external-sector-statistics"
     },
     {
       "topic": "trade",
@@ -43,12 +19,41 @@
       "url": "https://www.reuters.com/world/asia-pacific/us-urged-beijing-implement-commitments-busan-trade-deal-treasury-says-2026-11-06/"
     },
     {
+      "topic": "trade",
+      "source": "WTO · 5 Nov 2026",
+      "published": "2026-11-05T00:00:00Z",
+      "title": "WTO highlights trade partnerships and development priorities",
+      "summary": "Recent WTO updates include trade policy review activity, fisheries subsidies discussions and a global review focused on partnerships for trade and development.",
+      "url": "https://www.wto.org/index.htm"
+    },
+    {
       "topic": "geopolitics",
       "source": "World Economic Forum · 5 Nov 2026",
       "published": "2026-11-05T00:00:00Z",
       "title": "Geopolitical developments and elections: November 2026 briefing",
       "summary": "A round-up of election outcomes, Ukraine diplomacy and international political developments, useful as a starting point for further source checking.",
       "url": "https://www.weforum.org/stories/geo-economics-and-politics/geopolitical-developments-elections-worldwide-ukraine-peace-talks"
+    },
+    {
+      "topic": "trade",
+      "source": "UNCTAD · 9 Oct 2026",
+      "published": "2026-10-09T00:00:00Z",
+      "title": "UNCTAD projects global growth at 2.6% and trade growth around 4% in 2026",
+      "summary": "UNCTAD's Trade and Development Report 2026 describes slower global growth, resilient Asian economies, shifting trade relationships and increasing importance of technology and geopolitical policy barriers.",
+      "url": "https://unctad.org/news/global-growth-slows-26-and-gaps-widen-between-developing-regions"
+    },
+    {
+      "topic": "africa",
+      "source": "Bank of Botswana · September 2026 bulletin",
+      "published": "2026-09-30T00:00:00Z",
+      "title": "Botswana external-sector statistics: latest quarterly bulletin",
+      "summary": "The Bank of Botswana's external-sector bulletin tracks trade, investment and income flows and provides a primary source for monitoring Botswana's external position.",
+      "url": "https://www.bankofbotswana.bw/external-sector-statistics"
     }
+  ],
+  "collection_notes": [
+    "africa: HTTP Error 429: Too Many Requests",
+    "trade: HTTP Error 429: Too Many Requests",
+    "geopolitics: HTTP Error 429: Too Many Requests"
   ]
 }

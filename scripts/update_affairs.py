@@ -16,13 +16,17 @@ def safe_item(raw,topic):
  url=raw.get("url","")
  if not url.startswith("https://"): return None
  title=re.sub(r"\s+"," ",raw.get("title","")).strip()
- if not title or len(title)>300: return None
+ if not title or len(title)>240 or len(title.split())<5: return None
+ # Keep the public-facing desk consistently English until multilingual review is supported.
+ letters=[c for c in title if c.isalpha()]
+ if not letters or sum(c.isascii() for c in letters)/len(letters)<0.85: return None
  domain=raw.get("domain") or urllib.parse.urlparse(url).netloc
  date=raw.get("seendate","")
  published=None
  if re.fullmatch(r"\d{14}",date):
   try: published=datetime.datetime.strptime(date,"%Y%m%d%H%M%S").replace(tzinfo=datetime.timezone.utc).isoformat()
   except ValueError: pass
+ if published is None: return None
  return {"topic":topic,"source":domain,"published":published,"title":title,"summary":"Automated discovery result. Open the publisher's original report and corroborate important claims with primary sources.","url":url}
 def main():
  merged={}

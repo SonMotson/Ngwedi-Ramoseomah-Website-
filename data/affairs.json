@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-08T06:11:40.472535+00:00",
+  "updated": "2026-11-08T13:34:00.783014+00:00",
   "mode": "scheduled-public-source-discovery",
   "items": [
     {
@@ -52,6 +52,6 @@
     }
   ],
   "collection_notes": [
-    "Automated discovery records without a parseable publication date or with non-English titles are excluded pending editorial review."
+    "geopolitics: HTTP Error 429: Too Many Requests"
   ]
 }

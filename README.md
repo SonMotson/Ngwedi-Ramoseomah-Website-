@@ -18,3 +18,9 @@ The proposed WOKE three-day off-grid camp for April 2027 is shown as proposed on
 
 ## Hosting
 Cloudflare Workers with Static Assets is the preferred new-project hosting direction. Vercel configuration is included as an alternative. Connect the repository only after confirming the final domain and hosting account.
+
+
+## Trade intelligence desk
+- `botswana-trade.html`: dated trade dashboard, partner/product shares and indicative landed-cost estimator.
+- `data/botswana-trade.json`: Statistics Botswana August 2026 indicators and WTO 2024 partner/product series. Keep currencies and periods separate.
+- `assets/trade-desk.js`: same-origin renderer and client-side estimator. This is not a live tariff lookup or customs ruling.

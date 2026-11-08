@@ -1,0 +1,167 @@
+{
+  "updated": "2026-11-08",
+  "currency": "BWP",
+  "monthlyTrade": {
+    "period": "August 2026",
+    "released": "2026-10-23",
+    "importsCifMillionBwp": 8214.5,
+    "exportsFobMillionBwp": 5764,
+    "exportsDomesticMillionBwp": 5763.3,
+    "tradeBalanceMillionBwp": -2450.5,
+    "source": "https://www.statsbots.org.bw/merchandise-trade-statistics"
+  },
+  "wto2024": {
+    "importsMillionUsd": 6986.8,
+    "exportsMillionUsd": 3422,
+    "importsByPartner": [
+      {
+        "name": "South Africa",
+        "share": 60.7,
+        "valueMillionUsd": 4242.9
+      },
+      {
+        "name": "Namibia",
+        "share": 14.2,
+        "valueMillionUsd": 991.8
+      },
+      {
+        "name": "European Union",
+        "share": 4.1,
+        "valueMillionUsd": 286.9
+      },
+      {
+        "name": "China",
+        "share": 3.9,
+        "valueMillionUsd": 273.1
+      },
+      {
+        "name": "Canada",
+        "share": 3,
+        "valueMillionUsd": 212.7
+      },
+      {
+        "name": "India",
+        "share": 2.3,
+        "valueMillionUsd": 160.2
+      },
+      {
+        "name": "Mozambique",
+        "share": 2.2,
+        "valueMillionUsd": 152
+      },
+      {
+        "name": "Zambia",
+        "share": 1.5,
+        "valueMillionUsd": 105.3
+      },
+      {
+        "name": "United States",
+        "share": 1.4,
+        "valueMillionUsd": 94.6
+      },
+      {
+        "name": "Japan",
+        "share": 0.9,
+        "valueMillionUsd": 65.6
+      }
+    ],
+    "exportsByDestination": [
+      {
+        "name": "United Arab Emirates",
+        "share": 26.5,
+        "valueMillionUsd": 907.1
+      },
+      {
+        "name": "South Africa",
+        "share": 16.1,
+        "valueMillionUsd": 550.7
+      },
+      {
+        "name": "India",
+        "share": 12.8,
+        "valueMillionUsd": 437.8
+      },
+      {
+        "name": "European Union",
+        "share": 10.2,
+        "valueMillionUsd": 349.9
+      },
+      {
+        "name": "Australia",
+        "share": 10.1,
+        "valueMillionUsd": 345.7
+      },
+      {
+        "name": "China",
+        "share": 9.8,
+        "valueMillionUsd": 335.1
+      },
+      {
+        "name": "Israel",
+        "share": 3,
+        "valueMillionUsd": 103.3
+      },
+      {
+        "name": "Zimbabwe",
+        "share": 2.4,
+        "valueMillionUsd": 82.5
+      },
+      {
+        "name": "Namibia",
+        "share": 2.3,
+        "valueMillionUsd": 79.9
+      }
+    ],
+    "exportsByProduct": [
+      {
+        "name": "Non-industrial diamonds, unworked",
+        "hs": "710231",
+        "share": 49.9,
+        "valueMillionUsd": 1707.8
+      },
+      {
+        "name": "Copper ores and concentrates",
+        "hs": "260300",
+        "share": 21,
+        "valueMillionUsd": 718.2
+      },
+      {
+        "name": "Worked diamonds, not mounted",
+        "hs": "710239",
+        "share": 9.7,
+        "valueMillionUsd": 332.7
+      },
+      {
+        "name": "Vehicle and aircraft wiring sets",
+        "hs": "854430",
+        "share": 3,
+        "valueMillionUsd": 101.6
+      },
+      {
+        "name": "Disodium carbonate",
+        "hs": "283620",
+        "share": 2.1,
+        "valueMillionUsd": 72.9
+      },
+      {
+        "name": "Electric conductors with connectors",
+        "hs": "854442",
+        "share": 1.1,
+        "valueMillionUsd": 39.2
+      },
+      {
+        "name": "Frozen boneless beef",
+        "hs": "020230",
+        "share": 1,
+        "valueMillionUsd": 34.4
+      },
+      {
+        "name": "Pure-bred cattle for breeding",
+        "hs": "010221",
+        "share": 0.7,
+        "valueMillionUsd": 24.4
+      }
+    ]
+  },
+  "notes": "Monthly figures are BWP million, imports CIF and exports FOB. WTO partner/product series are 2024 USD million. Keep currencies and reference periods separate."
+}

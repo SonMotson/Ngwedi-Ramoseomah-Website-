@@ -1,2 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"><url><loc>https://example.invalid/</loc></url><url><loc>https://example.invalid/privacy.html</loc></url></urlset>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>https://sonmotson.github.io/Ngwedi-Ramoseomah-Website-/</loc><lastmod>2026-11-09</lastmod></url>
+  <url><loc>https://sonmotson.github.io/Ngwedi-Ramoseomah-Website-/library.html</loc><lastmod>2026-11-09</lastmod></url>
+  <url><loc>https://sonmotson.github.io/Ngwedi-Ramoseomah-Website-/affairs.html</loc><lastmod>2026-11-09</lastmod></url>
+  <url><loc>https://sonmotson.github.io/Ngwedi-Ramoseomah-Website-/botswana-trade.html</loc><lastmod>2026-11-09</lastmod></url>
+  <url><loc>https://sonmotson.github.io/Ngwedi-Ramoseomah-Website-/privacy.html</loc><lastmod>2026-11-09</lastmod></url>
+</urlset>

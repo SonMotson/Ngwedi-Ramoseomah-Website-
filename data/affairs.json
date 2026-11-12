@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-12T07:19:46.276089+00:00",
+  "updated": "2026-11-12T20:01:05.918958+00:00",
   "mode": "scheduled-public-source-discovery",
   "items": [
     {
@@ -51,9 +51,5 @@
       "url": "https://www.bankofbotswana.bw/external-sector-statistics"
     }
   ],
-  "collection_notes": [
-    "africa: HTTP Error 429: Too Many Requests",
-    "trade: HTTP Error 429: Too Many Requests",
-    "geopolitics: HTTP Error 429: Too Many Requests"
-  ]
+  "collection_notes": []
 }

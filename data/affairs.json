@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-16T06:41:07.009810+00:00",
+  "updated": "2026-11-16T22:13:36.435582+00:00",
   "mode": "scheduled-public-source-discovery",
   "items": [
     {
@@ -53,6 +53,7 @@
   ],
   "collection_notes": [
     "africa: HTTP Error 429: Too Many Requests",
+    "trade: HTTP Error 429: Too Many Requests",
     "geopolitics: HTTP Error 429: Too Many Requests"
   ]
 }

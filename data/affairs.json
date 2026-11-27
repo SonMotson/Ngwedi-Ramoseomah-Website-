@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-27T08:43:48.829706+00:00",
+  "updated": "2026-11-27T21:25:30.282163+00:00",
   "mode": "scheduled-public-source-discovery",
   "items": [
     {
@@ -52,7 +52,8 @@
     }
   ],
   "collection_notes": [
-    "trade: HTTP Error 429: Too Many Requests",
-    "geopolitics: HTTP Error 429: Too Many Requests"
+    "africa: <urlopen error timed out>",
+    "trade: <urlopen error _ssl.c:994: The handshake operation timed out>",
+    "geopolitics: <urlopen error _ssl.c:994: The handshake operation timed out>"
   ]
 }
